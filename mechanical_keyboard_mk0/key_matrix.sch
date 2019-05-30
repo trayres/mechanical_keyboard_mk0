@@ -175,10 +175,10 @@ Wire Wire Line
 Text HLabel 6750 1750 0    50   Input ~ 0
 col_2
 $Comp
-L Switch:SW_SPST SW?
+L Switch:SW_SPST SW5
 U 1 1 5CEFAEF4
 P 6000 2300
-F 0 "SW?" H 6000 2535 50  0000 C CNN
+F 0 "SW5" H 6000 2535 50  0000 C CNN
 F 1 "SW_SPST" H 6000 2444 50  0000 C CNN
 F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 6000 2300 50  0001 C CNN
 F 3 "~" H 6000 2300 50  0001 C CNN
@@ -186,10 +186,10 @@ F 3 "~" H 6000 2300 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:1N4148 D?
+L Diode:1N4148 D5
 U 1 1 5CEFAEFA
 P 6500 2300
-F 0 "D?" H 6500 2084 50  0000 C CNN
+F 0 "D5" H 6500 2084 50  0000 C CNN
 F 1 "1N4148" H 6500 2175 50  0000 C CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 6500 2125 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 6500 2300 50  0001 C CNN
@@ -203,10 +203,10 @@ Wire Wire Line
 Wire Wire Line
 	6200 2300 6350 2300
 $Comp
-L Switch:SW_SPST SW?
+L Switch:SW_SPST SW6
 U 1 1 5CEFAF04
 P 6000 3300
-F 0 "SW?" H 6000 3535 50  0000 C CNN
+F 0 "SW6" H 6000 3535 50  0000 C CNN
 F 1 "SW_SPST" H 6000 3444 50  0000 C CNN
 F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 6000 3300 50  0001 C CNN
 F 3 "~" H 6000 3300 50  0001 C CNN
@@ -214,10 +214,10 @@ F 3 "~" H 6000 3300 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:1N4148 D?
+L Diode:1N4148 D6
 U 1 1 5CEFAF0A
 P 6500 3300
-F 0 "D?" H 6500 3084 50  0000 C CNN
+F 0 "D6" H 6500 3084 50  0000 C CNN
 F 1 "1N4148" H 6500 3175 50  0000 C CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 6500 3125 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 6500 3300 50  0001 C CNN
@@ -246,10 +246,10 @@ Connection ~ 5700 3000
 Text HLabel 8000 1750 0    50   Input ~ 0
 col_3
 $Comp
-L Switch:SW_SPST SW?
+L Switch:SW_SPST SW7
 U 1 1 5CF0C20A
 P 7250 2300
-F 0 "SW?" H 7250 2535 50  0000 C CNN
+F 0 "SW7" H 7250 2535 50  0000 C CNN
 F 1 "SW_SPST" H 7250 2444 50  0000 C CNN
 F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 7250 2300 50  0001 C CNN
 F 3 "~" H 7250 2300 50  0001 C CNN
@@ -257,10 +257,10 @@ F 3 "~" H 7250 2300 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:1N4148 D?
+L Diode:1N4148 D7
 U 1 1 5CF0C210
 P 7750 2300
-F 0 "D?" H 7750 2084 50  0000 C CNN
+F 0 "D7" H 7750 2084 50  0000 C CNN
 F 1 "1N4148" H 7750 2175 50  0000 C CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 7750 2125 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 7750 2300 50  0001 C CNN
@@ -274,10 +274,10 @@ Wire Wire Line
 Wire Wire Line
 	7450 2300 7600 2300
 $Comp
-L Switch:SW_SPST SW?
+L Switch:SW_SPST SW8
 U 1 1 5CF0C219
 P 7250 3300
-F 0 "SW?" H 7250 3535 50  0000 C CNN
+F 0 "SW8" H 7250 3535 50  0000 C CNN
 F 1 "SW_SPST" H 7250 3444 50  0000 C CNN
 F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 7250 3300 50  0001 C CNN
 F 3 "~" H 7250 3300 50  0001 C CNN
@@ -285,10 +285,10 @@ F 3 "~" H 7250 3300 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:1N4148 D?
+L Diode:1N4148 D8
 U 1 1 5CF0C21F
 P 7750 3300
-F 0 "D?" H 7750 3084 50  0000 C CNN
+F 0 "D8" H 7750 3084 50  0000 C CNN
 F 1 "1N4148" H 7750 3175 50  0000 C CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 7750 3125 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 7750 3300 50  0001 C CNN
