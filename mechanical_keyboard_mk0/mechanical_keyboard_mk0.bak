@@ -15,7 +15,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Sheet
-S 5950 900  550  600 
+S 5950 900  1050 1100
 U 5CEB265E
 F0 "key_matrix" 50
 F1 "key_matrix.sch" 50
@@ -23,5 +23,7 @@ F2 "row_0" I L 5950 1000 50
 F3 "row_1" I L 5950 1100 50 
 F4 "col_0" I L 5950 1200 50 
 F5 "col_1" I L 5950 1300 50 
+F6 "col_2" I L 5950 1400 50 
+F7 "col_3" I L 5950 1500 50 
 $EndSheet
 $EndSCHEMATC
